@@ -1,0 +1,1 @@
+var dato = "cualquier cosa";
