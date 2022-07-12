@@ -11,3 +11,6 @@ Añadiendo style.css y primer diseño inicial
 
 #### 0.1.3 Atocha:
 Enlaces en index.html
+
+### 0.2 Barcelona
+Añadido fichero de javascript sin datos para completarlos
