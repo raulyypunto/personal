@@ -5,3 +5,6 @@ Añadido index.html solo con h1
 
 #### 0.1.1 Móstoles:
 Añadiendo linea lore ipsum en index
+
+#### 0.1.2 Lavapies:
+Añadiendo style.css y primer diseño inicial
