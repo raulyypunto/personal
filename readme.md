@@ -14,3 +14,6 @@ Enlaces en index.html
 
 ### 0.2 Barcelona
 Añadido fichero de javascript sin datos para completarlos
+
+#### 0.2.1 Hospitalet:
+Añadiendo variable en archivo programacion.js
